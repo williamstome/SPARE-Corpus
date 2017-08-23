@@ -22,7 +22,8 @@ This repository holds the Birmingham-Tufts Spatial Referring Expression Corpus.
 
    If you use this data, please cite "Spatial Referring Expression Generation for HRI: Algorithms and Evaluation Framework" by Lars Kunze, Tom Williams, Nick Hawes, and Matthias Scheutz, as appeared in the proceedings of the 2017 AAAI Fall Symposium on Artificial Intelligence for Human-Robot Interaction (AR-HRI).
 
-   ```@InProceedings{kunze2017arhri,
+   ```
+      @InProceedings{kunze2017arhri,
            author = {Lars Kunze and Tom Williams and Nick Hawes and Matthias Scheutz},
            title = {Spatial Referring Expression Generation for HRI: Algorithms and Evaluation Framework},
            booktitle = {{AAAI} Fall Symposium on Artificial Intelligence for Human-Robot Interaction ({AR-HRI})},
