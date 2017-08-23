@@ -29,7 +29,8 @@ This repository holds the Birmingham-Tufts Spatial Referring Expression Corpus.
            booktitle = {{AAAI} Fall Symposium on Artificial Intelligence for Human-Robot Interaction ({AR-HRI})},
            year = {2017},
            address = {Arlington, VA, US}
-           }```
+           }
+   ```
 
 Note that that paper used a subset of this corpus corresponding to data collected from participants that faithfully completed the entire experiment.
 
